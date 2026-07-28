@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "lang": "ar",
+    "dir": "rtl",
+    "name": "العربية"
+  },
+  
+  "ui": {
+    "settings": "الإعدادات",
+    "search": "البحث",
+    "fullscreen": "ملء الشاشة",
+    "exit_fullscreen": "إلغاء ملء الشاشة",
+    "astro_calc": "الحسابات الفلكية",
+    "device_orientation": "محاكاة اتجاه الجهاز",
+    "music_play": "تشغيل الموسيقى",
+    "music_stop": "إيقاف الموسيقى",
+    "lock_center": "تثبيت في المركز",
+    "unlock": "إلغاء التثبيت",
+    "time_control": "التحكم بالوقت",
+    "now": "الآن"
+  },
+  
+  "tabs": {
+    "location": "الموقع",
+    "grids": "الشبكات",
+    "display": "العرض",
+    "planets": "الأجرام",
+    "zodiac": "الأبراج",
+    "data": "الحفظ"
+  },
+  
+  "settings": {
+    "location_name": "اسم الموقع",
+    "latitude": "خط العرض",
+    "longitude": "خط الطول",
+    "elevation": "الارتفاع (متر)",
+    "timezone": "فرق التوقيت المحلي (بالساعات)",
+    "visible_stars": "عدد النجوم المعروضة",
+    "labeled_stars": "عدد النجوم المسماة",
+    "body_labels": "عرض أسماء الأجرام",
+    "constellation_lines": "عرض خطوط الأبراج",
+    "constellation_illustrations": "صور الكوكبات (Illustrations)",
+    "planet_lighting": "تأثير ضوء الشمس على الكواكب",
+    "ambient_light": "شدة الإضاءة المحيطة",
+    "center_coords": "إحداثيات منتصف الشاشة",
+    "orientation_sensitivity": "حساسية محاكاة اتجاه الجهاز",
+    "iau_boundaries": "حدود الكوكبات الرسمية IAU",
+    "iau_names": "أسماء الكوكبات IAU",
+    "horizon_symbols": "رموز الجهات"
+  },
+  
+  "grids": {
+    "equatorial": "الشبكة الاستوائية",
+    "equatorial_j2000": "الشبكة الاستوائية J2000",
+    "ecliptic": "شبكة الكسوف",
+    "ecliptic_j2000": "شبكة الكسوف J2000",
+    "azimuthal": "شبكة السمت",
+    "main_circle": "الدائرة الأساسية",
+    "lines": "الخطوط",
+    "labels": "الترقيم"
+  },
+  
+  "bodies": {
+    "sun": "الشمس",
+    "moon": "القمر",
+    "mercury": "عطارد",
+    "venus": "الزهرة",
+    "mars": "المريخ",
+    "jupiter": "المشتري",
+    "saturn": "زحل",
+    "uranus": "أورانوس",
+    "neptune": "نبتون",
+    "pluto": "بلوتو"
+  },
+  
+  "directions": {
+    "N": "ش",
+    "NE": "ش.ش",
+    "E": "ش",
+    "SE": "ج.ش",
+    "S": "ج",
+    "SW": "ج.غ",
+    "W": "غ",
+    "NW": "ش.غ",
+    "zenith": "سمت",
+    "nadir": "نق"
+  },
+  
+  "zodiac": {
+    "system": "نظام الأبراج",
+    "sidereal": "Sidereal (J2000)",
+    "tropical": "Tropical",
+    "both": "Both",
+    "signs": {
+      "Aries": "الحمل",
+      "Taurus": "الثور",
+      "Gemini": "الجوزاء",
+      "Cancer": "السرطان",
+      "Leo": "الأسد",
+      "Virgo": "السنبلة",
+      "Libra": "الميزان",
+      "Scorpius": "العقرب",
+      "Sagittarius": "القوس",
+      "Capricornus": "الجدي",
+      "Aquarius": "الدلو",
+      "Pisces": "الحوت"
+    }
+  },
+  
+  "astro_events": {
+    "moon_phases": "أطوار القمر",
+    "new_moon": "قمر جديد (New Moon)",
+    "first_quarter": "تربيع أول (First Quarter)",
+    "full_moon": "بدر كامل (Full Moon)",
+    "last_quarter": "تربيع أخير (Last Quarter)",
+    "sun_enter": "دخول الشمس في الأبراج",
+    "moon_enter": "دخول القمر في الأبراج",
+    "planet_enter": "دخول الكواكب في الأبراج",
+    "supermoon": "السوبرمون (Supermoon)",
+    "apoapsis": "أوج القمر (Lunar Apogee)",
+    "periapsis": "حضيض القمر (Lunar Perigee)",
+    "seasons": "الفصول (Seasons)",
+    "conjunctions": "الاقترانات (Conjunctions)",
+    "oppositions": "التقابلات (Oppositions)",
+    "nodes": "العقد الصاعدة/الهابطة (Orbital Nodes)",
+    "solar_eclipse": "الكسوف الشمسي (Solar Eclipse)",
+    "lunar_eclipse": "الخسوف القمري (Lunar Eclipse)"
+  },
+  
+  "toasts": {
+    "settings_saved": "تم حفظ الإعدادات",
+    "settings_loaded": "تم استعادة الإعدادات",
+    "fullscreen_on": "تم تفعيل ملء الشاشة",
+    "fullscreen_off": "تم إلغاء ملء الشاشة",
+    "music_on": "🔊 جاري تشغيل الموسيقى",
+    "music_off": "🔇 تم إيقاف الموسيقى",
+    "orientation_on": "🧭 تم تفعيل المحاكاة",
+    "orientation_off": "⏹️ تم إيقاف المحاكاة",
+    "locked": "تم تثبيت {name} في المركز",
+    "unlocked": "تم إلغاء التثبيت",
+    "search_not_found": "لم يتم العثور على نتائج"
+  },
+  
+  "info_panel": {
+    "horizontal_coords": "الإحداثيات السمتية",
+    "equatorial_coords": "الإحداثيات الاستوائية (تاريخ الرصد)",
+    "equatorial_j2000": "الإحداثيات الاستوائية (J2000)",
+    "ecliptic_coords": "الإحداثيات الكسوفية (تاريخ الرصد)",
+    "ecliptic_j2000": "الإحداثيات الكسوفية (J2000)",
+    "azimuth": "السمت (Az)",
+    "altitude": "الارتفاع (Alt)",
+    "ra": "المطلع المستقيم (RA)",
+    "dec": "الميلان (Dec)",
+    "ecliptic_lon": "الطول الكسوفي (λ)",
+    "ecliptic_lat": "العرض الكسوفي (β)",
+    "rise": "الشروق",
+    "transit": "العبور الأعلى",
+    "set": "الغروب",
+    "distance": "البعد",
+    "illumination": "نسبة الإضاءة",
+    "elongation": "زاوية الفصل"
+  },
+  
+  "search": {
+    "placeholder": "ابحث عن نجم أو جرم...",
+    "star": "نجم",
+    "body": "جرم سماوي",
+    "magnitude": "القدر"
+  },
+  
+  "time": {
+    "days": ["الأحد", "الاثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت"],
+    "months": ["يناير", "فبراير", "مارس", "أبريل", "مايو", "يونيو", "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"]
+  },
+
+  "tabs": {
+    "language": "اللغة"
+  },
+  
+  "settings": {
+    "language": "اللغة",
+    "language_note": "ملاحظة:",
+    "language_note_text": "سيتم حفظ اختيارك تلقائياً"
+  },
+  
+  "toasts": {
+    "language_changed": "تم تغيير اللغة"
+  }
+}
