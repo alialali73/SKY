@@ -1,0 +1,1274 @@
+{
+  "version": "2.0",
+  "generated": "2026-08-28T21:00:20.823288",
+  "description": "Deep Time Ephemeris (outside 0-4000)",
+  "settings": {
+    "ranges": [
+      {
+        "name": "pre_zero",
+        "start_jd": -1930632.5,
+        "end_jd": 1721424.5
+      },
+      {
+        "name": "post_4000",
+        "start_jd": 3182029.5,
+        "end_jd": 5373482.5
+      }
+    ],
+    "library_smooth_range": {
+      "start": 0,
+      "end": 4000
+    },
+    "round_pos": 2,
+    "round_vel": 4
+  },
+  "statistics": {
+    "total_files": 103,
+    "skipped_files": 103,
+    "failed_files": 0,
+    "total_points": 7944484,
+    "total_size_kb": 745511.9,
+    "total_size_gz_kb": 225786.7
+  },
+  "bodies": [
+    {
+      "body": "sun",
+      "name": "Sun",
+      "id": "10",
+      "type": "planet",
+      "step_days": 30,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/sun_pre_zero_c0.json",
+          "file_gz": "pre_zero/sun_pre_zero_c0.json.gz",
+          "size_kb": 8311.3,
+          "size_gz_kb": 2616.7,
+          "points": 85001,
+          "start_jd": -1930632.5,
+          "end_jd": 619367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 1,
+          "file": "pre_zero/sun_pre_zero_c1.json",
+          "file_gz": "pre_zero/sun_pre_zero_c1.json.gz",
+          "size_kb": 3578.3,
+          "size_gz_kb": 1133.8,
+          "points": 36736,
+          "start_jd": 619367.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/sun_post_4000_c0.json",
+          "file_gz": "post_4000/sun_post_4000_c0.json.gz",
+          "size_kb": 7137.1,
+          "size_gz_kb": 2247.3,
+          "points": 73049,
+          "start_jd": 3182029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "mercury",
+      "name": "Mercury",
+      "id": "199",
+      "type": "planet",
+      "step_days": 3,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/mercury_pre_zero_c0.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c0.json.gz",
+          "size_kb": 8416.4,
+          "size_gz_kb": 2705.7,
+          "points": 85001,
+          "start_jd": -1930632.5,
+          "end_jd": -1675632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 1,
+          "file": "pre_zero/mercury_pre_zero_c1.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c1.json.gz",
+          "size_kb": 8416.0,
+          "size_gz_kb": 2705.2,
+          "points": 85001,
+          "start_jd": -1675632.5,
+          "end_jd": -1420632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 2,
+          "file": "pre_zero/mercury_pre_zero_c2.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c2.json.gz",
+          "size_kb": 8416.6,
+          "size_gz_kb": 2705.1,
+          "points": 85001,
+          "start_jd": -1420632.5,
+          "end_jd": -1165632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 3,
+          "file": "pre_zero/mercury_pre_zero_c3.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c3.json.gz",
+          "size_kb": 8387.5,
+          "size_gz_kb": 2705.5,
+          "points": 85001,
+          "start_jd": -1165632.5,
+          "end_jd": -910632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 4,
+          "file": "pre_zero/mercury_pre_zero_c4.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c4.json.gz",
+          "size_kb": 8333.5,
+          "size_gz_kb": 2706.4,
+          "points": 85001,
+          "start_jd": -910632.5,
+          "end_jd": -655632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 5,
+          "file": "pre_zero/mercury_pre_zero_c5.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c5.json.gz",
+          "size_kb": 8333.4,
+          "size_gz_kb": 2706.6,
+          "points": 85001,
+          "start_jd": -655632.5,
+          "end_jd": -400632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 6,
+          "file": "pre_zero/mercury_pre_zero_c6.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c6.json.gz",
+          "size_kb": 8333.3,
+          "size_gz_kb": 2705.6,
+          "points": 85001,
+          "start_jd": -400632.5,
+          "end_jd": -145632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 7,
+          "file": "pre_zero/mercury_pre_zero_c7.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c7.json.gz",
+          "size_kb": 8225.0,
+          "size_gz_kb": 2708.5,
+          "points": 85001,
+          "start_jd": -145632.5,
+          "end_jd": 109367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 8,
+          "file": "pre_zero/mercury_pre_zero_c8.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c8.json.gz",
+          "size_kb": 8249.8,
+          "size_gz_kb": 2705.0,
+          "points": 85001,
+          "start_jd": 109367.5,
+          "end_jd": 364367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 9,
+          "file": "pre_zero/mercury_pre_zero_c9.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c9.json.gz",
+          "size_kb": 8250.8,
+          "size_gz_kb": 2704.3,
+          "points": 85001,
+          "start_jd": 364367.5,
+          "end_jd": 619367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 10,
+          "file": "pre_zero/mercury_pre_zero_c10.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c10.json.gz",
+          "size_kb": 8250.1,
+          "size_gz_kb": 2704.2,
+          "points": 85001,
+          "start_jd": 619367.5,
+          "end_jd": 874367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 11,
+          "file": "pre_zero/mercury_pre_zero_c11.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c11.json.gz",
+          "size_kb": 8291.5,
+          "size_gz_kb": 2705.6,
+          "points": 85001,
+          "start_jd": 874367.5,
+          "end_jd": 1129367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 12,
+          "file": "pre_zero/mercury_pre_zero_c12.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c12.json.gz",
+          "size_kb": 8333.1,
+          "size_gz_kb": 2706.1,
+          "points": 85001,
+          "start_jd": 1129367.5,
+          "end_jd": 1384367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 13,
+          "file": "pre_zero/mercury_pre_zero_c13.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c13.json.gz",
+          "size_kb": 8333.1,
+          "size_gz_kb": 2706.0,
+          "points": 85001,
+          "start_jd": 1384367.5,
+          "end_jd": 1639367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 14,
+          "file": "pre_zero/mercury_pre_zero_c14.json",
+          "file_gz": "pre_zero/mercury_pre_zero_c14.json.gz",
+          "size_kb": 2682.1,
+          "size_gz_kb": 873.5,
+          "points": 27353,
+          "start_jd": 1639367.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/mercury_post_4000_c0.json",
+          "file_gz": "post_4000/mercury_post_4000_c0.json.gz",
+          "size_kb": 8333.7,
+          "size_gz_kb": 2705.5,
+          "points": 85001,
+          "start_jd": 3182029.5,
+          "end_jd": 3437029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 1,
+          "file": "post_4000/mercury_post_4000_c1.json",
+          "file_gz": "post_4000/mercury_post_4000_c1.json.gz",
+          "size_kb": 8333.7,
+          "size_gz_kb": 2704.9,
+          "points": 85001,
+          "start_jd": 3437029.5,
+          "end_jd": 3692029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 2,
+          "file": "post_4000/mercury_post_4000_c2.json",
+          "file_gz": "post_4000/mercury_post_4000_c2.json.gz",
+          "size_kb": 8333.7,
+          "size_gz_kb": 2705.3,
+          "points": 85001,
+          "start_jd": 3692029.5,
+          "end_jd": 3947029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 3,
+          "file": "post_4000/mercury_post_4000_c3.json",
+          "file_gz": "post_4000/mercury_post_4000_c3.json.gz",
+          "size_kb": 8333.9,
+          "size_gz_kb": 2705.1,
+          "points": 85001,
+          "start_jd": 3947029.5,
+          "end_jd": 4202029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 4,
+          "file": "post_4000/mercury_post_4000_c4.json",
+          "file_gz": "post_4000/mercury_post_4000_c4.json.gz",
+          "size_kb": 8333.5,
+          "size_gz_kb": 2705.1,
+          "points": 85001,
+          "start_jd": 4202029.5,
+          "end_jd": 4457029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 5,
+          "file": "post_4000/mercury_post_4000_c5.json",
+          "file_gz": "post_4000/mercury_post_4000_c5.json.gz",
+          "size_kb": 8333.3,
+          "size_gz_kb": 2705.3,
+          "points": 85001,
+          "start_jd": 4457029.5,
+          "end_jd": 4712029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 6,
+          "file": "post_4000/mercury_post_4000_c6.json",
+          "file_gz": "post_4000/mercury_post_4000_c6.json.gz",
+          "size_kb": 8333.8,
+          "size_gz_kb": 2705.1,
+          "points": 85001,
+          "start_jd": 4712029.5,
+          "end_jd": 4967029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 7,
+          "file": "post_4000/mercury_post_4000_c7.json",
+          "file_gz": "post_4000/mercury_post_4000_c7.json.gz",
+          "size_kb": 8332.9,
+          "size_gz_kb": 2704.3,
+          "points": 85001,
+          "start_jd": 4967029.5,
+          "end_jd": 5222029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 8,
+          "file": "post_4000/mercury_post_4000_c8.json",
+          "file_gz": "post_4000/mercury_post_4000_c8.json.gz",
+          "size_kb": 4950.1,
+          "size_gz_kb": 1607.2,
+          "points": 50485,
+          "start_jd": 5222029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "venus",
+      "name": "Venus",
+      "id": "299",
+      "type": "planet",
+      "step_days": 5,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/venus_pre_zero_c0.json",
+          "file_gz": "pre_zero/venus_pre_zero_c0.json.gz",
+          "size_kb": 8384.6,
+          "size_gz_kb": 2698.4,
+          "points": 85001,
+          "start_jd": -1930632.5,
+          "end_jd": -1505632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 1,
+          "file": "pre_zero/venus_pre_zero_c1.json",
+          "file_gz": "pre_zero/venus_pre_zero_c1.json.gz",
+          "size_kb": 8384.4,
+          "size_gz_kb": 2697.9,
+          "points": 85001,
+          "start_jd": -1505632.5,
+          "end_jd": -1080632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 2,
+          "file": "pre_zero/venus_pre_zero_c2.json",
+          "file_gz": "pre_zero/venus_pre_zero_c2.json.gz",
+          "size_kb": 8317.0,
+          "size_gz_kb": 2698.1,
+          "points": 85001,
+          "start_jd": -1080632.5,
+          "end_jd": -655632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 3,
+          "file": "pre_zero/venus_pre_zero_c3.json",
+          "file_gz": "pre_zero/venus_pre_zero_c3.json.gz",
+          "size_kb": 8300.9,
+          "size_gz_kb": 2698.3,
+          "points": 85001,
+          "start_jd": -655632.5,
+          "end_jd": -230632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 4,
+          "file": "pre_zero/venus_pre_zero_c4.json",
+          "file_gz": "pre_zero/venus_pre_zero_c4.json.gz",
+          "size_kb": 8219.8,
+          "size_gz_kb": 2698.3,
+          "points": 85001,
+          "start_jd": -230632.5,
+          "end_jd": 194367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 5,
+          "file": "pre_zero/venus_pre_zero_c5.json",
+          "file_gz": "pre_zero/venus_pre_zero_c5.json.gz",
+          "size_kb": 8217.8,
+          "size_gz_kb": 2698.1,
+          "points": 85001,
+          "start_jd": 194367.5,
+          "end_jd": 619367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 6,
+          "file": "pre_zero/venus_pre_zero_c6.json",
+          "file_gz": "pre_zero/venus_pre_zero_c6.json.gz",
+          "size_kb": 8226.5,
+          "size_gz_kb": 2698.6,
+          "points": 85001,
+          "start_jd": 619367.5,
+          "end_jd": 1044367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 7,
+          "file": "pre_zero/venus_pre_zero_c7.json",
+          "file_gz": "pre_zero/venus_pre_zero_c7.json.gz",
+          "size_kb": 8300.9,
+          "size_gz_kb": 2698.5,
+          "points": 85001,
+          "start_jd": 1044367.5,
+          "end_jd": 1469367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 8,
+          "file": "pre_zero/venus_pre_zero_c8.json",
+          "file_gz": "pre_zero/venus_pre_zero_c8.json.gz",
+          "size_kb": 4923.2,
+          "size_gz_kb": 1601.2,
+          "points": 50412,
+          "start_jd": 1469367.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/venus_post_4000_c0.json",
+          "file_gz": "post_4000/venus_post_4000_c0.json.gz",
+          "size_kb": 8300.5,
+          "size_gz_kb": 2697.7,
+          "points": 85001,
+          "start_jd": 3182029.5,
+          "end_jd": 3607029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 1,
+          "file": "post_4000/venus_post_4000_c1.json",
+          "file_gz": "post_4000/venus_post_4000_c1.json.gz",
+          "size_kb": 8300.9,
+          "size_gz_kb": 2698.3,
+          "points": 85001,
+          "start_jd": 3607029.5,
+          "end_jd": 4032029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 2,
+          "file": "post_4000/venus_post_4000_c2.json",
+          "file_gz": "post_4000/venus_post_4000_c2.json.gz",
+          "size_kb": 8300.5,
+          "size_gz_kb": 2698.4,
+          "points": 85001,
+          "start_jd": 4032029.5,
+          "end_jd": 4457029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 3,
+          "file": "post_4000/venus_post_4000_c3.json",
+          "file_gz": "post_4000/venus_post_4000_c3.json.gz",
+          "size_kb": 8300.4,
+          "size_gz_kb": 2697.9,
+          "points": 85001,
+          "start_jd": 4457029.5,
+          "end_jd": 4882029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 4,
+          "file": "post_4000/venus_post_4000_c4.json",
+          "file_gz": "post_4000/venus_post_4000_c4.json.gz",
+          "size_kb": 8300.2,
+          "size_gz_kb": 2697.3,
+          "points": 85001,
+          "start_jd": 4882029.5,
+          "end_jd": 5307029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 5,
+          "file": "post_4000/venus_post_4000_c5.json",
+          "file_gz": "post_4000/venus_post_4000_c5.json.gz",
+          "size_kb": 1298.1,
+          "size_gz_kb": 425.0,
+          "points": 13291,
+          "start_jd": 5307029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "earth",
+      "name": "Earth",
+      "id": "399",
+      "type": "planet",
+      "step_days": 15,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/earth_pre_zero_c0.json",
+          "file_gz": "pre_zero/earth_pre_zero_c0.json.gz",
+          "size_kb": 7076.2,
+          "size_gz_kb": 1610.8,
+          "points": 85001,
+          "start_jd": -1930632.5,
+          "end_jd": -655632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 1,
+          "file": "pre_zero/earth_pre_zero_c1.json",
+          "file_gz": "pre_zero/earth_pre_zero_c1.json.gz",
+          "size_kb": 7013.4,
+          "size_gz_kb": 1668.4,
+          "points": 85001,
+          "start_jd": -655632.5,
+          "end_jd": 619367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 2,
+          "file": "pre_zero/earth_pre_zero_c2.json",
+          "file_gz": "pre_zero/earth_pre_zero_c2.json.gz",
+          "size_kb": 6103.7,
+          "size_gz_kb": 1421.9,
+          "points": 73471,
+          "start_jd": 619367.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/earth_post_4000_c0.json",
+          "file_gz": "post_4000/earth_post_4000_c0.json.gz",
+          "size_kb": 7105.6,
+          "size_gz_kb": 1657.2,
+          "points": 85001,
+          "start_jd": 3182029.5,
+          "end_jd": 4457029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 1,
+          "file": "post_4000/earth_post_4000_c1.json",
+          "file_gz": "post_4000/earth_post_4000_c1.json.gz",
+          "size_kb": 5098.7,
+          "size_gz_kb": 1178.0,
+          "points": 61097,
+          "start_jd": 4457029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "moon",
+      "name": "Moon",
+      "id": "301",
+      "type": "planet",
+      "step_days": 2,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/moon_pre_zero_c0.json",
+          "file_gz": "pre_zero/moon_pre_zero_c0.json.gz",
+          "size_kb": 7596.0,
+          "size_gz_kb": 2053.8,
+          "points": 85001,
+          "start_jd": -1930632.5,
+          "end_jd": -1760632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 1,
+          "file": "pre_zero/moon_pre_zero_c1.json",
+          "file_gz": "pre_zero/moon_pre_zero_c1.json.gz",
+          "size_kb": 7596.1,
+          "size_gz_kb": 2053.9,
+          "points": 85001,
+          "start_jd": -1760632.5,
+          "end_jd": -1590632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 2,
+          "file": "pre_zero/moon_pre_zero_c2.json",
+          "file_gz": "pre_zero/moon_pre_zero_c2.json.gz",
+          "size_kb": 7596.2,
+          "size_gz_kb": 2054.3,
+          "points": 85001,
+          "start_jd": -1590632.5,
+          "end_jd": -1420632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 3,
+          "file": "pre_zero/moon_pre_zero_c3.json",
+          "file_gz": "pre_zero/moon_pre_zero_c3.json.gz",
+          "size_kb": 7595.7,
+          "size_gz_kb": 2054.5,
+          "points": 85001,
+          "start_jd": -1420632.5,
+          "end_jd": -1250632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 4,
+          "file": "pre_zero/moon_pre_zero_c4.json",
+          "file_gz": "pre_zero/moon_pre_zero_c4.json.gz",
+          "size_kb": 7595.8,
+          "size_gz_kb": 2054.1,
+          "points": 85001,
+          "start_jd": -1250632.5,
+          "end_jd": -1080632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 5,
+          "file": "pre_zero/moon_pre_zero_c5.json",
+          "file_gz": "pre_zero/moon_pre_zero_c5.json.gz",
+          "size_kb": 7551.6,
+          "size_gz_kb": 2053.6,
+          "points": 85001,
+          "start_jd": -1080632.5,
+          "end_jd": -910632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 6,
+          "file": "pre_zero/moon_pre_zero_c6.json",
+          "file_gz": "pre_zero/moon_pre_zero_c6.json.gz",
+          "size_kb": 7512.0,
+          "size_gz_kb": 2053.8,
+          "points": 85001,
+          "start_jd": -910632.5,
+          "end_jd": -740632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 7,
+          "file": "pre_zero/moon_pre_zero_c7.json",
+          "file_gz": "pre_zero/moon_pre_zero_c7.json.gz",
+          "size_kb": 7512.3,
+          "size_gz_kb": 2053.7,
+          "points": 85001,
+          "start_jd": -740632.5,
+          "end_jd": -570632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 8,
+          "file": "pre_zero/moon_pre_zero_c8.json",
+          "file_gz": "pre_zero/moon_pre_zero_c8.json.gz",
+          "size_kb": 7512.1,
+          "size_gz_kb": 2053.3,
+          "points": 85001,
+          "start_jd": -570632.5,
+          "end_jd": -400632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 9,
+          "file": "pre_zero/moon_pre_zero_c9.json",
+          "file_gz": "pre_zero/moon_pre_zero_c9.json.gz",
+          "size_kb": 7512.1,
+          "size_gz_kb": 2053.8,
+          "points": 85001,
+          "start_jd": -400632.5,
+          "end_jd": -230632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 10,
+          "file": "pre_zero/moon_pre_zero_c10.json",
+          "file_gz": "pre_zero/moon_pre_zero_c10.json.gz",
+          "size_kb": 7492.9,
+          "size_gz_kb": 2053.2,
+          "points": 85001,
+          "start_jd": -230632.5,
+          "end_jd": -60632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 11,
+          "file": "pre_zero/moon_pre_zero_c11.json",
+          "file_gz": "pre_zero/moon_pre_zero_c11.json.gz",
+          "size_kb": 7369.4,
+          "size_gz_kb": 2055.2,
+          "points": 85001,
+          "start_jd": -60632.5,
+          "end_jd": 109367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 12,
+          "file": "pre_zero/moon_pre_zero_c12.json",
+          "file_gz": "pre_zero/moon_pre_zero_c12.json.gz",
+          "size_kb": 7428.8,
+          "size_gz_kb": 2052.9,
+          "points": 85001,
+          "start_jd": 109367.5,
+          "end_jd": 279367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 13,
+          "file": "pre_zero/moon_pre_zero_c13.json",
+          "file_gz": "pre_zero/moon_pre_zero_c13.json.gz",
+          "size_kb": 7429.0,
+          "size_gz_kb": 2052.9,
+          "points": 85001,
+          "start_jd": 279367.5,
+          "end_jd": 449367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 14,
+          "file": "pre_zero/moon_pre_zero_c14.json",
+          "file_gz": "pre_zero/moon_pre_zero_c14.json.gz",
+          "size_kb": 7428.8,
+          "size_gz_kb": 2052.2,
+          "points": 85001,
+          "start_jd": 449367.5,
+          "end_jd": 619367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 15,
+          "file": "pre_zero/moon_pre_zero_c15.json",
+          "file_gz": "pre_zero/moon_pre_zero_c15.json.gz",
+          "size_kb": 7428.7,
+          "size_gz_kb": 2052.3,
+          "points": 85001,
+          "start_jd": 619367.5,
+          "end_jd": 789367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 16,
+          "file": "pre_zero/moon_pre_zero_c16.json",
+          "file_gz": "pre_zero/moon_pre_zero_c16.json.gz",
+          "size_kb": 7428.7,
+          "size_gz_kb": 2051.7,
+          "points": 85001,
+          "start_jd": 789367.5,
+          "end_jd": 959367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 17,
+          "file": "pre_zero/moon_pre_zero_c17.json",
+          "file_gz": "pre_zero/moon_pre_zero_c17.json.gz",
+          "size_kb": 7491.9,
+          "size_gz_kb": 2052.4,
+          "points": 85001,
+          "start_jd": 959367.5,
+          "end_jd": 1129367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 18,
+          "file": "pre_zero/moon_pre_zero_c18.json",
+          "file_gz": "pre_zero/moon_pre_zero_c18.json.gz",
+          "size_kb": 7511.7,
+          "size_gz_kb": 2051.7,
+          "points": 85001,
+          "start_jd": 1129367.5,
+          "end_jd": 1299367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 19,
+          "file": "pre_zero/moon_pre_zero_c19.json",
+          "file_gz": "pre_zero/moon_pre_zero_c19.json.gz",
+          "size_kb": 7510.8,
+          "size_gz_kb": 2050.7,
+          "points": 85001,
+          "start_jd": 1299367.5,
+          "end_jd": 1469367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 20,
+          "file": "pre_zero/moon_pre_zero_c20.json",
+          "file_gz": "pre_zero/moon_pre_zero_c20.json.gz",
+          "size_kb": 7511.2,
+          "size_gz_kb": 2050.9,
+          "points": 85001,
+          "start_jd": 1469367.5,
+          "end_jd": 1639367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 21,
+          "file": "pre_zero/moon_pre_zero_c21.json",
+          "file_gz": "pre_zero/moon_pre_zero_c21.json.gz",
+          "size_kb": 3626.4,
+          "size_gz_kb": 990.5,
+          "points": 41029,
+          "start_jd": 1639367.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/moon_post_4000_c0.json",
+          "file_gz": "post_4000/moon_post_4000_c0.json.gz",
+          "size_kb": 7510.2,
+          "size_gz_kb": 2050.1,
+          "points": 85001,
+          "start_jd": 3182029.5,
+          "end_jd": 3352029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 1,
+          "file": "post_4000/moon_post_4000_c1.json",
+          "file_gz": "post_4000/moon_post_4000_c1.json.gz",
+          "size_kb": 7510.4,
+          "size_gz_kb": 2050.2,
+          "points": 85001,
+          "start_jd": 3352029.5,
+          "end_jd": 3522029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 2,
+          "file": "post_4000/moon_post_4000_c2.json",
+          "file_gz": "post_4000/moon_post_4000_c2.json.gz",
+          "size_kb": 7510.0,
+          "size_gz_kb": 2050.1,
+          "points": 85001,
+          "start_jd": 3522029.5,
+          "end_jd": 3692029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 3,
+          "file": "post_4000/moon_post_4000_c3.json",
+          "file_gz": "post_4000/moon_post_4000_c3.json.gz",
+          "size_kb": 7509.7,
+          "size_gz_kb": 2050.3,
+          "points": 85001,
+          "start_jd": 3692029.5,
+          "end_jd": 3862029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 4,
+          "file": "post_4000/moon_post_4000_c4.json",
+          "file_gz": "post_4000/moon_post_4000_c4.json.gz",
+          "size_kb": 7509.1,
+          "size_gz_kb": 2050.3,
+          "points": 85001,
+          "start_jd": 3862029.5,
+          "end_jd": 4032029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 5,
+          "file": "post_4000/moon_post_4000_c5.json",
+          "file_gz": "post_4000/moon_post_4000_c5.json.gz",
+          "size_kb": 7509.2,
+          "size_gz_kb": 2051.2,
+          "points": 85001,
+          "start_jd": 4032029.5,
+          "end_jd": 4202029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 6,
+          "file": "post_4000/moon_post_4000_c6.json",
+          "file_gz": "post_4000/moon_post_4000_c6.json.gz",
+          "size_kb": 7509.3,
+          "size_gz_kb": 2051.0,
+          "points": 85001,
+          "start_jd": 4202029.5,
+          "end_jd": 4372029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 7,
+          "file": "post_4000/moon_post_4000_c7.json",
+          "file_gz": "post_4000/moon_post_4000_c7.json.gz",
+          "size_kb": 7508.9,
+          "size_gz_kb": 2051.7,
+          "points": 85001,
+          "start_jd": 4372029.5,
+          "end_jd": 4542029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 8,
+          "file": "post_4000/moon_post_4000_c8.json",
+          "file_gz": "post_4000/moon_post_4000_c8.json.gz",
+          "size_kb": 7509.2,
+          "size_gz_kb": 2051.8,
+          "points": 85001,
+          "start_jd": 4542029.5,
+          "end_jd": 4712029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 9,
+          "file": "post_4000/moon_post_4000_c9.json",
+          "file_gz": "post_4000/moon_post_4000_c9.json.gz",
+          "size_kb": 7508.5,
+          "size_gz_kb": 2051.8,
+          "points": 85001,
+          "start_jd": 4712029.5,
+          "end_jd": 4882029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 10,
+          "file": "post_4000/moon_post_4000_c10.json",
+          "file_gz": "post_4000/moon_post_4000_c10.json.gz",
+          "size_kb": 7509.0,
+          "size_gz_kb": 2051.7,
+          "points": 85001,
+          "start_jd": 4882029.5,
+          "end_jd": 5052029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 11,
+          "file": "post_4000/moon_post_4000_c11.json",
+          "file_gz": "post_4000/moon_post_4000_c11.json.gz",
+          "size_kb": 7508.1,
+          "size_gz_kb": 2051.9,
+          "points": 85001,
+          "start_jd": 5052029.5,
+          "end_jd": 5222029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 12,
+          "file": "post_4000/moon_post_4000_c12.json",
+          "file_gz": "post_4000/moon_post_4000_c12.json.gz",
+          "size_kb": 6689.6,
+          "size_gz_kb": 1828.3,
+          "points": 75727,
+          "start_jd": 5222029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "mars",
+      "name": "Mars Barycenter",
+      "id": "4",
+      "type": "barycenter",
+      "step_days": 7,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/mars_pre_zero_c0.json",
+          "file_gz": "pre_zero/mars_pre_zero_c0.json.gz",
+          "size_kb": 8418.5,
+          "size_gz_kb": 2703.8,
+          "points": 85001,
+          "start_jd": -1930632.5,
+          "end_jd": -1335632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 1,
+          "file": "pre_zero/mars_pre_zero_c1.json",
+          "file_gz": "pre_zero/mars_pre_zero_c1.json.gz",
+          "size_kb": 8383.4,
+          "size_gz_kb": 2708.6,
+          "points": 85001,
+          "start_jd": -1335632.5,
+          "end_jd": -740632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 2,
+          "file": "pre_zero/mars_pre_zero_c2.json",
+          "file_gz": "pre_zero/mars_pre_zero_c2.json.gz",
+          "size_kb": 8337.4,
+          "size_gz_kb": 2714.7,
+          "points": 85001,
+          "start_jd": -740632.5,
+          "end_jd": -145632.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 3,
+          "file": "pre_zero/mars_pre_zero_c3.json",
+          "file_gz": "pre_zero/mars_pre_zero_c3.json.gz",
+          "size_kb": 8245.0,
+          "size_gz_kb": 2708.3,
+          "points": 85001,
+          "start_jd": -145632.5,
+          "end_jd": 449367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 4,
+          "file": "pre_zero/mars_pre_zero_c4.json",
+          "file_gz": "pre_zero/mars_pre_zero_c4.json.gz",
+          "size_kb": 8261.9,
+          "size_gz_kb": 2704.8,
+          "points": 85001,
+          "start_jd": 449367.5,
+          "end_jd": 1044367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 5,
+          "file": "pre_zero/mars_pre_zero_c5.json",
+          "file_gz": "pre_zero/mars_pre_zero_c5.json.gz",
+          "size_kb": 8341.1,
+          "size_gz_kb": 2714.5,
+          "points": 85001,
+          "start_jd": 1044367.5,
+          "end_jd": 1639367.5
+        },
+        {
+          "range": "pre_zero",
+          "chunk": 6,
+          "file": "pre_zero/mars_pre_zero_c6.json",
+          "file_gz": "pre_zero/mars_pre_zero_c6.json.gz",
+          "size_kb": 1151.0,
+          "size_gz_kb": 377.8,
+          "points": 11723,
+          "start_jd": 1639367.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/mars_post_4000_c0.json",
+          "file_gz": "post_4000/mars_post_4000_c0.json.gz",
+          "size_kb": 8345.0,
+          "size_gz_kb": 2714.0,
+          "points": 85001,
+          "start_jd": 3182029.5,
+          "end_jd": 3777029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 1,
+          "file": "post_4000/mars_post_4000_c1.json",
+          "file_gz": "post_4000/mars_post_4000_c1.json.gz",
+          "size_kb": 8345.9,
+          "size_gz_kb": 2713.7,
+          "points": 85001,
+          "start_jd": 3777029.5,
+          "end_jd": 4372029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 2,
+          "file": "post_4000/mars_post_4000_c2.json",
+          "file_gz": "post_4000/mars_post_4000_c2.json.gz",
+          "size_kb": 8347.1,
+          "size_gz_kb": 2713.7,
+          "points": 85001,
+          "start_jd": 4372029.5,
+          "end_jd": 4967029.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 3,
+          "file": "post_4000/mars_post_4000_c3.json",
+          "file_gz": "post_4000/mars_post_4000_c3.json.gz",
+          "size_kb": 5702.8,
+          "size_gz_kb": 1853.9,
+          "points": 58065,
+          "start_jd": 4967029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "jupiter",
+      "name": "Jupiter Barycenter",
+      "id": "5",
+      "type": "barycenter",
+      "step_days": 60,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/jupiter_pre_zero_c0.json",
+          "file_gz": "pre_zero/jupiter_pre_zero_c0.json.gz",
+          "size_kb": 6048.7,
+          "size_gz_kb": 1963.1,
+          "points": 60868,
+          "start_jd": -1930632.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/jupiter_post_4000_c0.json",
+          "file_gz": "post_4000/jupiter_post_4000_c0.json.gz",
+          "size_kb": 3633.0,
+          "size_gz_kb": 1178.4,
+          "points": 36525,
+          "start_jd": 3182029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "saturn",
+      "name": "Saturn Barycenter",
+      "id": "6",
+      "type": "barycenter",
+      "step_days": 60,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/saturn_pre_zero_c0.json",
+          "file_gz": "pre_zero/saturn_pre_zero_c0.json.gz",
+          "size_kb": 6120.9,
+          "size_gz_kb": 1983.0,
+          "points": 60868,
+          "start_jd": -1930632.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/saturn_post_4000_c0.json",
+          "file_gz": "post_4000/saturn_post_4000_c0.json.gz",
+          "size_kb": 3672.4,
+          "size_gz_kb": 1190.4,
+          "points": 36525,
+          "start_jd": 3182029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "uranus",
+      "name": "Uranus Barycenter",
+      "id": "7",
+      "type": "barycenter",
+      "step_days": 60,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/uranus_pre_zero_c0.json",
+          "file_gz": "pre_zero/uranus_pre_zero_c0.json.gz",
+          "size_kb": 6176.8,
+          "size_gz_kb": 2004.3,
+          "points": 60868,
+          "start_jd": -1930632.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/uranus_post_4000_c0.json",
+          "file_gz": "post_4000/uranus_post_4000_c0.json.gz",
+          "size_kb": 3707.0,
+          "size_gz_kb": 1202.6,
+          "points": 36525,
+          "start_jd": 3182029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "neptune",
+      "name": "Neptune Barycenter",
+      "id": "8",
+      "type": "barycenter",
+      "step_days": 60,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/neptune_pre_zero_c0.json",
+          "file_gz": "pre_zero/neptune_pre_zero_c0.json.gz",
+          "size_kb": 6208.5,
+          "size_gz_kb": 2016.1,
+          "points": 60868,
+          "start_jd": -1930632.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/neptune_post_4000_c0.json",
+          "file_gz": "post_4000/neptune_post_4000_c0.json.gz",
+          "size_kb": 3725.7,
+          "size_gz_kb": 1209.9,
+          "points": 36525,
+          "start_jd": 3182029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    },
+    {
+      "body": "pluto",
+      "name": "Pluto",
+      "id": "9",
+      "type": "dwarf_planet",
+      "step_days": 60,
+      "chunks": [
+        {
+          "range": "pre_zero",
+          "chunk": 0,
+          "file": "pre_zero/pluto_pre_zero_c0.json",
+          "file_gz": "pre_zero/pluto_pre_zero_c0.json.gz",
+          "size_kb": 6205.0,
+          "size_gz_kb": 2017.9,
+          "points": 60868,
+          "start_jd": -1930632.5,
+          "end_jd": 1721424.5
+        },
+        {
+          "range": "post_4000",
+          "chunk": 0,
+          "file": "post_4000/pluto_post_4000_c0.json",
+          "file_gz": "post_4000/pluto_post_4000_c0.json.gz",
+          "size_kb": 3724.8,
+          "size_gz_kb": 1210.2,
+          "points": 36525,
+          "start_jd": 3182029.5,
+          "end_jd": 5373482.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "last_path_update": "2026-08-29T15:50:27.358439",
+    "subdirectory_structure": {
+      "pre_zero": "ephemeris/pre_zero/",
+      "post_4000": "ephemeris/post_4000/"
+    }
+  }
+}
