@@ -1,0 +1,2248 @@
+[
+  {
+    "id": "M1",
+    "name": "سديم السرطان",
+    "nameEn": "Crab Nebula",
+    "type": {
+      "abbr": "SNR",
+      "full": "supernova remnant"
+    },
+    "ra": 83.625,
+    "dec": 22.016667,
+    "mag": 8.4,
+    "constellation": "Tau",
+    "texture": "messier/m1.jpg",
+    "ngc": 1952,
+    "sizeArcmin": [
+      6.0,
+      4.0
+    ],
+    "distance": 6.3,
+    "common_name": "Crab Nebula"
+  },
+  {
+    "id": "M2",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 2",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 323.375,
+    "dec": -0.816667,
+    "mag": 6.5,
+    "constellation": "Aqr",
+    "texture": "messier/m2.jpg",
+    "ngc": 7089,
+    "sizeArcmin": [
+      12.9
+    ],
+    "distance": 38.0,
+    "common_name": null
+  },
+  {
+    "id": "M3",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 3",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 205.55,
+    "dec": 28.383333,
+    "mag": 6.2,
+    "constellation": "CVn",
+    "texture": "messier/m3.jpg",
+    "ngc": 5272,
+    "sizeArcmin": [
+      16.2
+    ],
+    "distance": 33.0,
+    "common_name": null
+  },
+  {
+    "id": "M4",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 4",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 245.9,
+    "dec": -26.533333,
+    "mag": 5.6,
+    "constellation": "Sco",
+    "texture": "messier/m4.jpg",
+    "ngc": 6121,
+    "sizeArcmin": [
+      26.3
+    ],
+    "distance": 6.0,
+    "common_name": null
+  },
+  {
+    "id": "M5",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 5",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 229.65,
+    "dec": 2.083333,
+    "mag": 5.6,
+    "constellation": "Ser",
+    "texture": "messier/m5.jpg",
+    "ngc": 5904,
+    "sizeArcmin": [
+      17.4
+    ],
+    "distance": 24.0,
+    "common_name": null
+  },
+  {
+    "id": "M6",
+    "name": "عنقود الفراشة",
+    "nameEn": "Butterfly Cluster",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 265.025,
+    "dec": -32.216667,
+    "mag": 4.2,
+    "constellation": "Sco",
+    "texture": "messier/m6.jpg",
+    "ngc": 6405,
+    "sizeArcmin": [
+      15.0
+    ],
+    "distance": 1.6,
+    "common_name": "Butterfly Cluster"
+  },
+  {
+    "id": "M7",
+    "name": "عنقود بطليموس",
+    "nameEn": "Ptolemy Cluster",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 268.475,
+    "dec": -34.816667,
+    "mag": 3.3,
+    "constellation": "Sco",
+    "texture": "messier/m7.jpg",
+    "ngc": 6475,
+    "sizeArcmin": [
+      80.0
+    ],
+    "distance": 0.98,
+    "common_name": "Ptolemy's Cluster"
+  },
+  {
+    "id": "M8",
+    "name": "سديم اللاغون",
+    "nameEn": "Lagoon Nebula",
+    "type": {
+      "abbr": "C/N",
+      "full": "cluster with nebula"
+    },
+    "ra": 270.95,
+    "dec": -24.383333,
+    "mag": 4.6,
+    "constellation": "Sgr",
+    "texture": "messier/m8.jpg",
+    "ngc": 6523,
+    "sizeArcmin": [
+      90.0,
+      40.0
+    ],
+    "distance": 5.2,
+    "common_name": "Lagoon Nebula"
+  },
+  {
+    "id": "M9",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 9",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 259.8,
+    "dec": -18.516667,
+    "mag": 7.7,
+    "constellation": "Oph",
+    "texture": "messier/m9.jpg",
+    "ngc": 6333,
+    "sizeArcmin": [
+      9.3
+    ],
+    "distance": 27.0,
+    "common_name": null
+  },
+  {
+    "id": "M10",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 10",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 254.275,
+    "dec": -4.1,
+    "mag": 6.6,
+    "constellation": "Oph",
+    "texture": "messier/m10.jpg",
+    "ngc": 6254,
+    "sizeArcmin": [
+      15.1
+    ],
+    "distance": 17.0,
+    "common_name": null
+  },
+  {
+    "id": "M11",
+    "name": "العنقود البري",
+    "nameEn": "Wild Duck Cluster",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 282.775,
+    "dec": -6.266667,
+    "mag": 5.8,
+    "constellation": "Sct",
+    "texture": "messier/m11.jpg",
+    "ngc": 6705,
+    "sizeArcmin": [
+      14.0
+    ],
+    "distance": 6.0,
+    "common_name": "Wild Duck Cluster"
+  },
+  {
+    "id": "M12",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 12",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 251.8,
+    "dec": -1.95,
+    "mag": 6.7,
+    "constellation": "Oph",
+    "texture": "messier/m12.jpg",
+    "ngc": 6218,
+    "sizeArcmin": [
+      14.5
+    ],
+    "distance": 17.0,
+    "common_name": null
+  },
+  {
+    "id": "M13",
+    "name": "العنقود العظيم",
+    "nameEn": "Great Hercules Cluster",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 250.425,
+    "dec": 36.466667,
+    "mag": 5.8,
+    "constellation": "Her",
+    "texture": "messier/m13.jpg",
+    "ngc": 6205,
+    "sizeArcmin": [
+      16.6
+    ],
+    "distance": 24.0,
+    "common_name": "Hercules Cluster"
+  },
+  {
+    "id": "M14",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 14",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 264.4,
+    "dec": -3.25,
+    "mag": 7.6,
+    "constellation": "Oph",
+    "texture": "messier/m14.jpg",
+    "ngc": 6402,
+    "sizeArcmin": [
+      11.7
+    ],
+    "distance": 30.0,
+    "common_name": null
+  },
+  {
+    "id": "M15",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 15",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 322.5,
+    "dec": 12.166667,
+    "mag": 6.2,
+    "constellation": "Peg",
+    "texture": "messier/m15.jpg",
+    "ngc": 7078,
+    "sizeArcmin": [
+      12.3
+    ],
+    "distance": 35.0,
+    "common_name": null
+  },
+  {
+    "id": "M16",
+    "name": "سديم النسر",
+    "nameEn": "Eagle Nebula",
+    "type": {
+      "abbr": "C/N",
+      "full": "cluster with nebula"
+    },
+    "ra": 274.7,
+    "dec": -13.783333,
+    "mag": 6.4,
+    "constellation": "Ser",
+    "texture": "messier/m16.jpg",
+    "ngc": 6611,
+    "sizeArcmin": [
+      7.0
+    ],
+    "distance": 5.7,
+    "common_name": "Eagle Nebula, Star Queen Nebula"
+  },
+  {
+    "id": "M17",
+    "name": "سديم أوميغا",
+    "nameEn": "Omega Nebula",
+    "type": {
+      "abbr": "C/N",
+      "full": "cluster with nebula"
+    },
+    "ra": 275.2,
+    "dec": -16.183333,
+    "mag": 7.0,
+    "constellation": "Sgr",
+    "texture": "messier/m17.jpg",
+    "ngc": 6618,
+    "sizeArcmin": [
+      11.0
+    ],
+    "distance": 5.0,
+    "common_name": "Omega Nebula, Swan Nebula, Lobster Nebula"
+  },
+  {
+    "id": "M18",
+    "name": "العنقود الأسود",
+    "nameEn": "Black Swan Cluster",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 274.975,
+    "dec": -17.133333,
+    "mag": 7.5,
+    "constellation": "Sgr",
+    "texture": "messier/m18.jpg",
+    "ngc": 6613,
+    "sizeArcmin": [
+      9.0
+    ],
+    "distance": 4.2,
+    "common_name": null
+  },
+  {
+    "id": "M19",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 19",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 255.65,
+    "dec": -26.266667,
+    "mag": 6.8,
+    "constellation": "Oph",
+    "texture": "messier/m19.jpg",
+    "ngc": 6273,
+    "sizeArcmin": [
+      13.5
+    ],
+    "distance": 27.0,
+    "common_name": null
+  },
+  {
+    "id": "M20",
+    "name": "سديم الثلاثي",
+    "nameEn": "Trifid Nebula",
+    "type": {
+      "abbr": "C/N",
+      "full": "cluster with nebula"
+    },
+    "ra": 270.65,
+    "dec": -23.033333,
+    "mag": 6.3,
+    "constellation": "Sgr",
+    "texture": "messier/m20.jpg",
+    "ngc": 6514,
+    "sizeArcmin": [
+      28.0
+    ],
+    "distance": 4.0,
+    "common_name": "Trifid Nebula"
+  },
+  {
+    "id": "M21",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 21",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 271.15,
+    "dec": -22.5,
+    "mag": 6.5,
+    "constellation": "Sgr",
+    "texture": "messier/m21.jpg",
+    "ngc": 6531,
+    "sizeArcmin": [
+      13.0
+    ],
+    "distance": 4.0,
+    "common_name": null
+  },
+  {
+    "id": "M22",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 22",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 279.1,
+    "dec": -23.9,
+    "mag": 5.1,
+    "constellation": "Sgr",
+    "texture": "messier/m22.jpg",
+    "ngc": 6656,
+    "sizeArcmin": [
+      24.0
+    ],
+    "distance": 11.0,
+    "common_name": null
+  },
+  {
+    "id": "M23",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 23",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 269.2,
+    "dec": -19.016667,
+    "mag": 5.5,
+    "constellation": "Sgr",
+    "texture": "messier/m23.jpg",
+    "ngc": 6494,
+    "sizeArcmin": [
+      27.0
+    ],
+    "distance": 2.15,
+    "common_name": null
+  },
+  {
+    "id": "M24",
+    "name": "سحابة القوس",
+    "nameEn": "Sagittarius Star Cloud",
+    "type": {
+      "abbr": "MWP",
+      "full": "Milky Way patch, star cloud"
+    },
+    "ra": 274.225,
+    "dec": -18.483333,
+    "mag": 2.5,
+    "constellation": "Sgr",
+    "texture": "messier/m24.jpg",
+    "ngc": "I4715",
+    "sizeArcmin": [
+      120.0,
+      60.0
+    ],
+    "distance": 10.0,
+    "common_name": "\"Delle Caustiche\", Small Sagittarius Star Cloud, contains NGC 6603"
+  },
+  {
+    "id": "M25",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 25",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 277.9,
+    "dec": -19.25,
+    "mag": 4.6,
+    "constellation": "Sgr",
+    "texture": "messier/m25.jpg",
+    "ngc": "I4725",
+    "sizeArcmin": [
+      32.0
+    ],
+    "distance": 2.0,
+    "common_name": null
+  },
+  {
+    "id": "M26",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 26",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 281.3,
+    "dec": -9.4,
+    "mag": 8.0,
+    "constellation": "Sct",
+    "texture": "messier/m26.jpg",
+    "ngc": 6694,
+    "sizeArcmin": [
+      15.0
+    ],
+    "distance": 5.0,
+    "common_name": null
+  },
+  {
+    "id": "M27",
+    "name": "سديم الدمبل",
+    "nameEn": "Dumbbell Nebula",
+    "type": {
+      "abbr": "PlN",
+      "full": "planetary nebula"
+    },
+    "ra": 299.9,
+    "dec": 22.716667,
+    "mag": 7.4,
+    "constellation": "Vul",
+    "texture": "messier/m27.jpg",
+    "ngc": 6853,
+    "sizeArcmin": [
+      8.0,
+      5.7
+    ],
+    "distance": 1.25,
+    "common_name": "Dumbbell Nebula"
+  },
+  {
+    "id": "M28",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 28",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 276.125,
+    "dec": -24.866667,
+    "mag": 6.8,
+    "constellation": "Sgr",
+    "texture": "messier/m28.jpg",
+    "ngc": 6626,
+    "sizeArcmin": [
+      11.2
+    ],
+    "distance": 18.0,
+    "common_name": null
+  },
+  {
+    "id": "M29",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 29",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 305.975,
+    "dec": 38.533333,
+    "mag": 7.1,
+    "constellation": "Cyg",
+    "texture": "messier/m29.jpg",
+    "ngc": 6913,
+    "sizeArcmin": [
+      7.0
+    ],
+    "distance": 5.2,
+    "common_name": null
+  },
+  {
+    "id": "M30",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 30",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 325.1,
+    "dec": -23.183333,
+    "mag": 7.2,
+    "constellation": "Cap",
+    "texture": "messier/m30.jpg",
+    "ngc": 7099,
+    "sizeArcmin": [
+      11.0
+    ],
+    "distance": 28.0,
+    "common_name": null
+  },
+  {
+    "id": "M31",
+    "name": "مجرة أندروميدا",
+    "nameEn": "Andromeda Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 10.675,
+    "dec": 41.266667,
+    "mag": 3.4,
+    "constellation": "And",
+    "texture": "messier/m31.jpg",
+    "ngc": 224,
+    "sizeArcmin": [
+      178.0,
+      63.0
+    ],
+    "distance": 2600.0,
+    "common_name": "Andromeda Galaxy"
+  },
+  {
+    "id": "M32",
+    "name": "مجرة قزمة",
+    "nameEn": "Messier 32",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 10.675,
+    "dec": 40.866667,
+    "mag": 8.1,
+    "constellation": "And",
+    "texture": "messier/m32.jpg",
+    "ngc": 221,
+    "sizeArcmin": [
+      8.0,
+      6.0
+    ],
+    "distance": 2500.0,
+    "common_name": null
+  },
+  {
+    "id": "M33",
+    "name": "مجرة المثلث",
+    "nameEn": "Triangulum Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 23.475,
+    "dec": 30.65,
+    "mag": 5.7,
+    "constellation": "Tri",
+    "texture": "messier/m33.jpg",
+    "ngc": 598,
+    "sizeArcmin": [
+      73.0,
+      45.0
+    ],
+    "distance": 2800.0,
+    "common_name": "Triangulum Galaxy"
+  },
+  {
+    "id": "M34",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 34",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 40.5,
+    "dec": 42.783333,
+    "mag": 5.5,
+    "constellation": "Per",
+    "texture": "messier/m34.jpg",
+    "ngc": 1039,
+    "sizeArcmin": [
+      35.0
+    ],
+    "distance": 1.4,
+    "common_name": null
+  },
+  {
+    "id": "M35",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 35",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 92.225,
+    "dec": 24.333333,
+    "mag": 5.3,
+    "constellation": "Gem",
+    "texture": "messier/m35.jpg",
+    "ngc": 2168,
+    "sizeArcmin": [
+      28.0
+    ],
+    "distance": 2.8,
+    "common_name": null
+  },
+  {
+    "id": "M36",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 36",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 84.025,
+    "dec": 34.133333,
+    "mag": 6.3,
+    "constellation": "Aur",
+    "texture": "messier/m36.jpg",
+    "ngc": 1960,
+    "sizeArcmin": [
+      12.0
+    ],
+    "distance": 4.1,
+    "common_name": null
+  },
+  {
+    "id": "M37",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 37",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 88.1,
+    "dec": 32.55,
+    "mag": 6.2,
+    "constellation": "Aur",
+    "texture": "messier/m37.jpg",
+    "ngc": 2099,
+    "sizeArcmin": [
+      24.0
+    ],
+    "distance": 4.4,
+    "common_name": null
+  },
+  {
+    "id": "M38",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 38",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 82.175,
+    "dec": 35.833333,
+    "mag": 7.4,
+    "constellation": "Aur",
+    "texture": "messier/m38.jpg",
+    "ngc": 1912,
+    "sizeArcmin": [
+      21.0
+    ],
+    "distance": 4.2,
+    "common_name": null
+  },
+  {
+    "id": "M39",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 39",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 323.05,
+    "dec": 48.433333,
+    "mag": 4.6,
+    "constellation": "Cyg",
+    "texture": "messier/m39.jpg",
+    "ngc": 7092,
+    "sizeArcmin": [
+      32.0
+    ],
+    "distance": 0.82,
+    "common_name": null
+  },
+  {
+    "id": "M40",
+    "name": "نجم مزدوج",
+    "nameEn": "Winnecke 4",
+    "type": {
+      "abbr": "DSt",
+      "full": "Double Star"
+    },
+    "ra": 185.6,
+    "dec": 58.083333,
+    "mag": 8.4,
+    "constellation": "UMa",
+    "texture": "messier/m40.jpg",
+    "ngc": "WIN4",
+    "sizeArcmin": [
+      0.8
+    ],
+    "distance": null,
+    "common_name": "Double Star WNC4"
+  },
+  {
+    "id": "M41",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 41",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 101.75,
+    "dec": -20.733333,
+    "mag": 4.6,
+    "constellation": "CMa",
+    "texture": "messier/m41.jpg",
+    "ngc": 2287,
+    "sizeArcmin": [
+      38.0
+    ],
+    "distance": 2.4,
+    "common_name": null
+  },
+  {
+    "id": "M42",
+    "name": "سديم الجبار",
+    "nameEn": "Orion Nebula",
+    "type": {
+      "abbr": "DfN",
+      "full": "diffuse nebula"
+    },
+    "ra": 83.85,
+    "dec": -5.45,
+    "mag": 4.0,
+    "constellation": "Ori",
+    "texture": "messier/m42.jpg",
+    "ngc": 1976,
+    "sizeArcmin": [
+      85.0,
+      60.0
+    ],
+    "distance": 1.35,
+    "common_name": "Orion Nebula"
+  },
+  {
+    "id": "M43",
+    "name": "سديم دي ماران",
+    "nameEn": "De Mairan's Nebula",
+    "type": {
+      "abbr": "DfN",
+      "full": "diffuse nebula"
+    },
+    "ra": 83.9,
+    "dec": -5.266667,
+    "mag": 9.0,
+    "constellation": "Ori",
+    "texture": "messier/m43.jpg",
+    "ngc": 1982,
+    "sizeArcmin": [
+      20.0,
+      15.0
+    ],
+    "distance": 1.35,
+    "common_name": "de Mairan's nebula; part of Orion Nebula"
+  },
+  {
+    "id": "M44",
+    "name": "عنقود الخلية",
+    "nameEn": "Beehive Cluster",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 130.025,
+    "dec": 19.983333,
+    "mag": 3.7,
+    "constellation": "Cnc",
+    "texture": "messier/m44.jpg",
+    "ngc": 2632,
+    "sizeArcmin": [
+      95.0
+    ],
+    "distance": 0.58,
+    "common_name": "Praesepe, Beehive Cluster"
+  },
+  {
+    "id": "M45",
+    "name": "الثريا",
+    "nameEn": "Pleiades",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 56.75,
+    "dec": 24.116667,
+    "mag": 1.6,
+    "constellation": "Tau",
+    "texture": "messier/m45.jpg",
+    "ngc": "Mel22",
+    "sizeArcmin": [
+      110.0
+    ],
+    "distance": 0.44,
+    "common_name": "Subaru, Pleiades, Seven Sisters"
+  },
+  {
+    "id": "M46",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 46",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 115.45,
+    "dec": -14.816667,
+    "mag": 6.0,
+    "constellation": "Pup",
+    "texture": "messier/m46.jpg",
+    "ngc": 2437,
+    "sizeArcmin": [
+      27.0
+    ],
+    "distance": 5.4,
+    "common_name": null
+  },
+  {
+    "id": "M47",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 47",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 114.15,
+    "dec": -14.5,
+    "mag": 4.4,
+    "constellation": "Pup",
+    "texture": "messier/m47.jpg",
+    "ngc": 2422,
+    "sizeArcmin": [
+      30.0
+    ],
+    "distance": 1.6,
+    "common_name": null
+  },
+  {
+    "id": "M48",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 48",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 123.45,
+    "dec": -5.8,
+    "mag": 5.5,
+    "constellation": "Hya",
+    "texture": "messier/m48.jpg",
+    "ngc": 2548,
+    "sizeArcmin": [
+      54.0
+    ],
+    "distance": 1.5,
+    "common_name": null
+  },
+  {
+    "id": "M49",
+    "name": "مجرة إهليلجية",
+    "nameEn": "Messier 49",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 187.45,
+    "dec": 8.0,
+    "mag": 8.4,
+    "constellation": "Vir",
+    "texture": "messier/m49.jpg",
+    "ngc": 4472,
+    "sizeArcmin": [
+      9.0,
+      7.5
+    ],
+    "distance": 55000.0,
+    "common_name": null
+  },
+  {
+    "id": "M50",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 50",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 105.8,
+    "dec": -8.333333,
+    "mag": 6.3,
+    "constellation": "Mon",
+    "texture": "messier/m50.jpg",
+    "ngc": 2323,
+    "sizeArcmin": [
+      16.0
+    ],
+    "distance": 3.0,
+    "common_name": null
+  },
+  {
+    "id": "M51",
+    "name": "مجرة الدوامة",
+    "nameEn": "Whirlpool Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 202.475,
+    "dec": 47.2,
+    "mag": 8.4,
+    "constellation": "CVn",
+    "texture": "messier/m51.jpg",
+    "ngc": 5194,
+    "sizeArcmin": [
+      11.0,
+      7.0
+    ],
+    "distance": 27000.0,
+    "common_name": "Whirlpool Galaxy"
+  },
+  {
+    "id": "M52",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 52",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 351.05,
+    "dec": 61.583333,
+    "mag": 7.3,
+    "constellation": "Cas",
+    "texture": "messier/m52.jpg",
+    "ngc": 7654,
+    "sizeArcmin": [
+      13.0
+    ],
+    "distance": 5.0,
+    "common_name": null
+  },
+  {
+    "id": "M53",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 53",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 198.225,
+    "dec": 18.166667,
+    "mag": 7.6,
+    "constellation": "Com",
+    "texture": "messier/m53.jpg",
+    "ngc": 5024,
+    "sizeArcmin": [
+      12.6
+    ],
+    "distance": 60.0,
+    "common_name": null
+  },
+  {
+    "id": "M54",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 54",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 283.775,
+    "dec": -30.483333,
+    "mag": 7.6,
+    "constellation": "Sgr",
+    "texture": "messier/m54.jpg",
+    "ngc": 6715,
+    "sizeArcmin": [
+      9.1
+    ],
+    "distance": 86.0,
+    "common_name": null
+  },
+  {
+    "id": "M55",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 55",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 295.0,
+    "dec": -30.966667,
+    "mag": 6.3,
+    "constellation": "Sgr",
+    "texture": "messier/m55.jpg",
+    "ngc": 6809,
+    "sizeArcmin": [
+      19.0
+    ],
+    "distance": 17.0,
+    "common_name": null
+  },
+  {
+    "id": "M56",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 56",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 289.15,
+    "dec": 30.183333,
+    "mag": 8.3,
+    "constellation": "Lyr",
+    "texture": "messier/m56.jpg",
+    "ngc": 6779,
+    "sizeArcmin": [
+      7.1
+    ],
+    "distance": 34.0,
+    "common_name": null
+  },
+  {
+    "id": "M57",
+    "name": "سديم الحلقة",
+    "nameEn": "Ring Nebula",
+    "type": {
+      "abbr": "PlN",
+      "full": "planetary nebula"
+    },
+    "ra": 283.4,
+    "dec": 33.033333,
+    "mag": 8.8,
+    "constellation": "Lyr",
+    "texture": "messier/m57.jpg",
+    "ngc": 6720,
+    "sizeArcmin": [
+      1.4,
+      1.0
+    ],
+    "distance": 2.3,
+    "common_name": "Ring Nebula"
+  },
+  {
+    "id": "M58",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 58",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 189.425,
+    "dec": 11.816667,
+    "mag": 9.7,
+    "constellation": "Vir",
+    "texture": "messier/m58.jpg",
+    "ngc": 4579,
+    "sizeArcmin": [
+      5.5,
+      4.5
+    ],
+    "distance": 60000.0,
+    "common_name": null
+  },
+  {
+    "id": "M59",
+    "name": "مجرة إهليلجية",
+    "nameEn": "Messier 59",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 190.5,
+    "dec": 11.65,
+    "mag": 9.6,
+    "constellation": "Vir",
+    "texture": "messier/m59.jpg",
+    "ngc": 4621,
+    "sizeArcmin": [
+      5.0,
+      3.5
+    ],
+    "distance": 52000.0,
+    "common_name": null
+  },
+  {
+    "id": "M60",
+    "name": "مجرة إهليلجية",
+    "nameEn": "Messier 60",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 190.925,
+    "dec": 11.55,
+    "mag": 8.8,
+    "constellation": "Vir",
+    "texture": "messier/m60.jpg",
+    "ngc": 4649,
+    "sizeArcmin": [
+      7.0,
+      6.0
+    ],
+    "distance": 54500.0,
+    "common_name": null
+  },
+  {
+    "id": "M61",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 61",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 185.475,
+    "dec": 4.466667,
+    "mag": 9.7,
+    "constellation": "Vir",
+    "texture": "messier/m61.jpg",
+    "ngc": 4303,
+    "sizeArcmin": [
+      6.0,
+      5.5
+    ],
+    "distance": 53000.0,
+    "common_name": null
+  },
+  {
+    "id": "M62",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 62",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 255.3,
+    "dec": -30.116667,
+    "mag": 6.5,
+    "constellation": "Oph",
+    "texture": "messier/m62.jpg",
+    "ngc": 6266,
+    "sizeArcmin": [
+      14.1
+    ],
+    "distance": 21.0,
+    "common_name": null
+  },
+  {
+    "id": "M63",
+    "name": "مجرة عباد الشمس",
+    "nameEn": "Sunflower Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 198.95,
+    "dec": 42.033333,
+    "mag": 8.6,
+    "constellation": "CVn",
+    "texture": "messier/m63.jpg",
+    "ngc": 5055,
+    "sizeArcmin": [
+      10.0,
+      6.0
+    ],
+    "distance": 37000.0,
+    "common_name": "Sunflower Galaxy"
+  },
+  {
+    "id": "M64",
+    "name": "مجرة العين السوداء",
+    "nameEn": "Black Eye Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 194.175,
+    "dec": 21.683333,
+    "mag": 8.5,
+    "constellation": "Com",
+    "texture": "messier/m64.jpg",
+    "ngc": 4826,
+    "sizeArcmin": [
+      9.3,
+      5.4
+    ],
+    "distance": 19000.0,
+    "common_name": "Blackeye Galaxy"
+  },
+  {
+    "id": "M65",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 65",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 169.725,
+    "dec": 13.083333,
+    "mag": 9.3,
+    "constellation": "Leo",
+    "texture": "messier/m65.jpg",
+    "ngc": 3623,
+    "sizeArcmin": [
+      8.0,
+      1.5
+    ],
+    "distance": 35000.0,
+    "common_name": null
+  },
+  {
+    "id": "M66",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 66",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 170.05,
+    "dec": 12.983333,
+    "mag": 8.9,
+    "constellation": "Leo",
+    "texture": "messier/m66.jpg",
+    "ngc": 3627,
+    "sizeArcmin": [
+      8.0,
+      2.5
+    ],
+    "distance": 35000.0,
+    "common_name": null
+  },
+  {
+    "id": "M67",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 67",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 132.6,
+    "dec": 11.816667,
+    "mag": 6.1,
+    "constellation": "Cnc",
+    "texture": "messier/m67.jpg",
+    "ngc": 2682,
+    "sizeArcmin": [
+      30.0
+    ],
+    "distance": 2.9,
+    "common_name": null
+  },
+  {
+    "id": "M68",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 68",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 189.875,
+    "dec": -26.75,
+    "mag": 7.8,
+    "constellation": "Hya",
+    "texture": "messier/m68.jpg",
+    "ngc": 4590,
+    "sizeArcmin": [
+      12.0
+    ],
+    "distance": 34.0,
+    "common_name": null
+  },
+  {
+    "id": "M69",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 69",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 278.6,
+    "dec": -32.35,
+    "mag": 7.6,
+    "constellation": "Sgr",
+    "texture": "messier/m69.jpg",
+    "ngc": 6637,
+    "sizeArcmin": [
+      7.1
+    ],
+    "distance": 29.0,
+    "common_name": null
+  },
+  {
+    "id": "M70",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 70",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 280.8,
+    "dec": -32.3,
+    "mag": 7.9,
+    "constellation": "Sgr",
+    "texture": "messier/m70.jpg",
+    "ngc": 6681,
+    "sizeArcmin": [
+      7.8
+    ],
+    "distance": 31.0,
+    "common_name": null
+  },
+  {
+    "id": "M71",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 71",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 298.45,
+    "dec": 18.783333,
+    "mag": 8.2,
+    "constellation": "Sge",
+    "texture": "messier/m71.jpg",
+    "ngc": 6838,
+    "sizeArcmin": [
+      7.2
+    ],
+    "distance": 13.0,
+    "common_name": null
+  },
+  {
+    "id": "M72",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 72",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 313.375,
+    "dec": -12.533333,
+    "mag": 9.3,
+    "constellation": "Aqr",
+    "texture": "messier/m72.jpg",
+    "ngc": 6981,
+    "sizeArcmin": [
+      5.9
+    ],
+    "distance": 54.0,
+    "common_name": null
+  },
+  {
+    "id": "M73",
+    "name": "مجموعة نجوم",
+    "nameEn": "Messier 73",
+    "type": {
+      "abbr": "Ast",
+      "full": "asterism"
+    },
+    "ra": 314.725,
+    "dec": -12.633333,
+    "mag": 9.0,
+    "constellation": "Aqr",
+    "texture": "messier/m73.jpg",
+    "ngc": 6994,
+    "sizeArcmin": [
+      2.8
+    ],
+    "distance": null,
+    "common_name": null
+  },
+  {
+    "id": "M74",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 74",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 24.175,
+    "dec": 15.783333,
+    "mag": 9.4,
+    "constellation": "Psc",
+    "texture": "messier/m74.jpg",
+    "ngc": 628,
+    "sizeArcmin": [
+      10.2,
+      9.5
+    ],
+    "distance": 35000.0,
+    "common_name": null
+  },
+  {
+    "id": "M75",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 75",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 301.525,
+    "dec": -21.916667,
+    "mag": 8.5,
+    "constellation": "Sgr",
+    "texture": "messier/m75.jpg",
+    "ngc": 6864,
+    "sizeArcmin": [
+      6.0
+    ],
+    "distance": 67.0,
+    "common_name": null
+  },
+  {
+    "id": "M76",
+    "name": "سديم الدمبل الصغير",
+    "nameEn": "Little Dumbbell Nebula",
+    "type": {
+      "abbr": "PlN",
+      "full": "planetary nebula"
+    },
+    "ra": 25.6,
+    "dec": 51.566667,
+    "mag": 10.1,
+    "constellation": "Per",
+    "texture": "messier/m76.jpg",
+    "ngc": 650,
+    "sizeArcmin": [
+      2.7,
+      1.8
+    ],
+    "distance": 2.4,
+    "common_name": "Little Dumbbell Nebula, Cork Nebula"
+  },
+  {
+    "id": "M77",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 77",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 40.675,
+    "dec": -0.016667,
+    "mag": 8.9,
+    "constellation": "Cet",
+    "texture": "messier/m77.jpg",
+    "ngc": 1068,
+    "sizeArcmin": [
+      7.0,
+      6.0
+    ],
+    "distance": 60000.0,
+    "common_name": "Cetus A"
+  },
+  {
+    "id": "M78",
+    "name": "سديم عاكس",
+    "nameEn": "Messier 78",
+    "type": {
+      "abbr": "DfN",
+      "full": "diffuse nebula"
+    },
+    "ra": 86.675,
+    "dec": 0.05,
+    "mag": 8.3,
+    "constellation": "Ori",
+    "texture": "messier/m78.jpg",
+    "ngc": 2068,
+    "sizeArcmin": [
+      8.0,
+      6.0
+    ],
+    "distance": 1.35,
+    "common_name": null
+  },
+  {
+    "id": "M79",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 79",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 81.125,
+    "dec": -24.55,
+    "mag": 7.7,
+    "constellation": "Lep",
+    "texture": "messier/m79.jpg",
+    "ngc": 1904,
+    "sizeArcmin": [
+      8.7
+    ],
+    "distance": 43.0,
+    "common_name": null
+  },
+  {
+    "id": "M80",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 80",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 244.25,
+    "dec": -22.983333,
+    "mag": 7.3,
+    "constellation": "Sco",
+    "texture": "messier/m80.jpg",
+    "ngc": 6093,
+    "sizeArcmin": [
+      8.9
+    ],
+    "distance": 34.0,
+    "common_name": null
+  },
+  {
+    "id": "M81",
+    "name": "مجرة بودي",
+    "nameEn": "Bode's Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 148.9,
+    "dec": 69.066667,
+    "mag": 6.9,
+    "constellation": "UMa",
+    "texture": "messier/m81.jpg",
+    "ngc": 3031,
+    "sizeArcmin": [
+      21.0,
+      10.0
+    ],
+    "distance": 12000.0,
+    "common_name": "Bode's Galaxy"
+  },
+  {
+    "id": "M82",
+    "name": "مجرة السيجار",
+    "nameEn": "Cigar Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 148.95,
+    "dec": 69.683333,
+    "mag": 8.4,
+    "constellation": "UMa",
+    "texture": "messier/m82.jpg",
+    "ngc": 3034,
+    "sizeArcmin": [
+      9.0,
+      4.0
+    ],
+    "distance": 12000.0,
+    "common_name": "Cigar Galaxy"
+  },
+  {
+    "id": "M83",
+    "name": "مجرة دولاب الهواء الجنوبي",
+    "nameEn": "Southern Pinwheel Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 204.25,
+    "dec": -29.866667,
+    "mag": 7.6,
+    "constellation": "Hya",
+    "texture": "messier/m83.jpg",
+    "ngc": 5236,
+    "sizeArcmin": [
+      11.0,
+      10.0
+    ],
+    "distance": 15000.0,
+    "common_name": "Southern Pinwheel Galaxy"
+  },
+  {
+    "id": "M84",
+    "name": "مجرة إهليلجية",
+    "nameEn": "Messier 84",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 186.275,
+    "dec": 12.883333,
+    "mag": 9.1,
+    "constellation": "Vir",
+    "texture": "messier/m84.jpg",
+    "ngc": 4374,
+    "sizeArcmin": [
+      5.0
+    ],
+    "distance": 60000.0,
+    "common_name": null
+  },
+  {
+    "id": "M85",
+    "name": "مجرة عدسية",
+    "nameEn": "Messier 85",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 186.35,
+    "dec": 18.183333,
+    "mag": 9.1,
+    "constellation": "Com",
+    "texture": "messier/m85.jpg",
+    "ngc": 4382,
+    "sizeArcmin": [
+      7.1,
+      5.2
+    ],
+    "distance": 60000.0,
+    "common_name": null
+  },
+  {
+    "id": "M86",
+    "name": "مجرة إهليلجية",
+    "nameEn": "Messier 86",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 186.55,
+    "dec": 12.95,
+    "mag": 8.9,
+    "constellation": "Vir",
+    "texture": "messier/m86.jpg",
+    "ngc": 4406,
+    "sizeArcmin": [
+      7.5,
+      5.5
+    ],
+    "distance": 60000.0,
+    "common_name": null
+  },
+  {
+    "id": "M87",
+    "name": "مجرة إهليلجية عملاقة",
+    "nameEn": "Messier 87",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 187.7,
+    "dec": 12.4,
+    "mag": 8.6,
+    "constellation": "Vir",
+    "texture": "messier/m87.jpg",
+    "ngc": 4486,
+    "sizeArcmin": [
+      7.0
+    ],
+    "distance": 55000.0,
+    "common_name": "Virgo A"
+  },
+  {
+    "id": "M88",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 88",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 188.0,
+    "dec": 14.416667,
+    "mag": 9.6,
+    "constellation": "Com",
+    "texture": "messier/m88.jpg",
+    "ngc": 4501,
+    "sizeArcmin": [
+      7.0,
+      4.0
+    ],
+    "distance": 60000.0,
+    "common_name": null
+  },
+  {
+    "id": "M89",
+    "name": "مجرة إهليلجية",
+    "nameEn": "Messier 89",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 188.925,
+    "dec": 12.55,
+    "mag": 9.8,
+    "constellation": "Vir",
+    "texture": "messier/m89.jpg",
+    "ngc": 4552,
+    "sizeArcmin": [
+      4.0
+    ],
+    "distance": 53000.0,
+    "common_name": null
+  },
+  {
+    "id": "M90",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 90",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 189.2,
+    "dec": 13.166667,
+    "mag": 9.5,
+    "constellation": "Vir",
+    "texture": "messier/m90.jpg",
+    "ngc": 4569,
+    "sizeArcmin": [
+      9.5,
+      4.5
+    ],
+    "distance": 55000.0,
+    "common_name": null
+  },
+  {
+    "id": "M91",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 91",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 188.85,
+    "dec": 14.5,
+    "mag": 10.2,
+    "constellation": "Com",
+    "texture": "messier/m91.jpg",
+    "ngc": 4548,
+    "sizeArcmin": [
+      5.4,
+      4.4
+    ],
+    "distance": 52000.0,
+    "common_name": null
+  },
+  {
+    "id": "M92",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 92",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 259.275,
+    "dec": 43.133333,
+    "mag": 6.5,
+    "constellation": "Her",
+    "texture": "messier/m92.jpg",
+    "ngc": 6341,
+    "sizeArcmin": [
+      11.2
+    ],
+    "distance": 27.7,
+    "common_name": null
+  },
+  {
+    "id": "M93",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 93",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 116.15,
+    "dec": -23.866667,
+    "mag": 6.0,
+    "constellation": "Pup",
+    "texture": "messier/m93.jpg",
+    "ngc": 2447,
+    "sizeArcmin": [
+      22.0
+    ],
+    "distance": 3.4,
+    "common_name": null
+  },
+  {
+    "id": "M94",
+    "name": "مجرة عين القطة",
+    "nameEn": "Cat's Eye Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 192.725,
+    "dec": 41.116667,
+    "mag": 8.2,
+    "constellation": "CVn",
+    "texture": "messier/m94.jpg",
+    "ngc": 4736,
+    "sizeArcmin": [
+      7.0,
+      3.0
+    ],
+    "distance": 14500.0,
+    "common_name": null
+  },
+  {
+    "id": "M95",
+    "name": "مجرة حلزونية ضلعية",
+    "nameEn": "Messier 95",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 161.0,
+    "dec": 11.7,
+    "mag": 9.7,
+    "constellation": "Leo",
+    "texture": "messier/m95.jpg",
+    "ngc": 3351,
+    "sizeArcmin": [
+      4.4,
+      3.3
+    ],
+    "distance": 38000.0,
+    "common_name": null
+  },
+  {
+    "id": "M96",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 96",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 161.7,
+    "dec": 11.816667,
+    "mag": 9.2,
+    "constellation": "Leo",
+    "texture": "messier/m96.jpg",
+    "ngc": 3368,
+    "sizeArcmin": [
+      6.0,
+      4.0
+    ],
+    "distance": 38000.0,
+    "common_name": null
+  },
+  {
+    "id": "M97",
+    "name": "سديم البومة",
+    "nameEn": "Owl Nebula",
+    "type": {
+      "abbr": "PlN",
+      "full": "planetary nebula"
+    },
+    "ra": 168.7,
+    "dec": 55.016667,
+    "mag": 9.9,
+    "constellation": "UMa",
+    "texture": "messier/m97.jpg",
+    "ngc": 3587,
+    "sizeArcmin": [
+      3.4,
+      3.3
+    ],
+    "distance": 2.6,
+    "common_name": "Owl Nebula"
+  },
+  {
+    "id": "M98",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 98",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 183.45,
+    "dec": 14.9,
+    "mag": 10.1,
+    "constellation": "Com",
+    "texture": "messier/m98.jpg",
+    "ngc": 4192,
+    "sizeArcmin": [
+      9.5,
+      3.2
+    ],
+    "distance": 60000.0,
+    "common_name": null
+  },
+  {
+    "id": "M99",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 99",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 184.7,
+    "dec": 14.416667,
+    "mag": 9.9,
+    "constellation": "Com",
+    "texture": "messier/m99.jpg",
+    "ngc": 4254,
+    "sizeArcmin": [
+      5.4,
+      4.8
+    ],
+    "distance": 60000.0,
+    "common_name": null
+  },
+  {
+    "id": "M100",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 100",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 185.725,
+    "dec": 15.816667,
+    "mag": 9.3,
+    "constellation": "Com",
+    "texture": "messier/m100.jpg",
+    "ngc": 4321,
+    "sizeArcmin": [
+      7.0,
+      6.0
+    ],
+    "distance": 53000.0,
+    "common_name": null
+  },
+  {
+    "id": "M101",
+    "name": "مجرة دولاب الهواء",
+    "nameEn": "Pinwheel Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 210.825,
+    "dec": 54.35,
+    "mag": 7.9,
+    "constellation": "UMa",
+    "texture": "messier/m101.jpg",
+    "ngc": 5457,
+    "sizeArcmin": [
+      22.0
+    ],
+    "distance": 24000.0,
+    "common_name": "Pinwheel Galaxy"
+  },
+  {
+    "id": "M102",
+    "name": "مجرة مغزل",
+    "nameEn": "Spindle Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 226.625,
+    "dec": 55.75,
+    "mag": 9.9,
+    "constellation": "Dra",
+    "texture": "messier/m102.jpg",
+    "ngc": 5866,
+    "sizeArcmin": [
+      5.2,
+      2.3
+    ],
+    "distance": 45000.0,
+    "common_name": "Spindle Galaxy"
+  },
+  {
+    "id": "M103",
+    "name": "العنقود المفتوح",
+    "nameEn": "Messier 103",
+    "type": {
+      "abbr": "OCl",
+      "full": "open cluster"
+    },
+    "ra": 23.3,
+    "dec": 60.7,
+    "mag": 7.4,
+    "constellation": "Cas",
+    "texture": "messier/m103.jpg",
+    "ngc": 581,
+    "sizeArcmin": [
+      6.0
+    ],
+    "distance": 7.2,
+    "common_name": null
+  },
+  {
+    "id": "M104",
+    "name": "مجرة سومبريرو",
+    "nameEn": "Sombrero Galaxy",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 190.0,
+    "dec": -11.616667,
+    "mag": 8.0,
+    "constellation": "Vir",
+    "texture": "messier/m104.jpg",
+    "ngc": 4594,
+    "sizeArcmin": [
+      9.0,
+      4.0
+    ],
+    "distance": 50000.0,
+    "common_name": "Sombrero Galaxy"
+  },
+  {
+    "id": "M105",
+    "name": "مجرة إهليلجية",
+    "nameEn": "Messier 105",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 161.95,
+    "dec": 12.583333,
+    "mag": 9.3,
+    "constellation": "Leo",
+    "texture": "messier/m105.jpg",
+    "ngc": 3379,
+    "sizeArcmin": [
+      4.8,
+      5.4
+    ],
+    "distance": 36000.0,
+    "common_name": null
+  },
+  {
+    "id": "M106",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 106",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 184.75,
+    "dec": 47.3,
+    "mag": 8.4,
+    "constellation": "CVn",
+    "texture": "messier/m106.jpg",
+    "ngc": 4258,
+    "sizeArcmin": [
+      19.0,
+      8.0
+    ],
+    "distance": 25000.0,
+    "common_name": null
+  },
+  {
+    "id": "M107",
+    "name": "العنقود الكروي",
+    "nameEn": "Messier 107",
+    "type": {
+      "abbr": "GCl",
+      "full": "globular cluster"
+    },
+    "ra": 248.125,
+    "dec": -13.05,
+    "mag": 7.9,
+    "constellation": "Oph",
+    "texture": "messier/m107.jpg",
+    "ngc": 6171,
+    "sizeArcmin": [
+      10.0
+    ],
+    "distance": 18.0,
+    "common_name": null
+  },
+  {
+    "id": "M108",
+    "name": "مجرة حلزونية",
+    "nameEn": "Messier 108",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 167.875,
+    "dec": 55.666667,
+    "mag": 10.0,
+    "constellation": "UMa",
+    "texture": "messier/m108.jpg",
+    "ngc": 3556,
+    "sizeArcmin": [
+      8.0,
+      1.0
+    ],
+    "distance": 33000.0,
+    "common_name": null
+  },
+  {
+    "id": "M109",
+    "name": "مجرة حلزونية ضلعية",
+    "nameEn": "Messier 109",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 179.4,
+    "dec": 53.383333,
+    "mag": 9.8,
+    "constellation": "UMa",
+    "texture": "messier/m109.jpg",
+    "ngc": 3992,
+    "sizeArcmin": [
+      7.6,
+      4.7
+    ],
+    "distance": 62000.0,
+    "common_name": null
+  },
+  {
+    "id": "M110",
+    "name": "مجرة قزمة إهليلجية",
+    "nameEn": "Messier 110",
+    "type": {
+      "abbr": "Gal",
+      "full": "galaxy"
+    },
+    "ra": 10.1,
+    "dec": 41.683333,
+    "mag": 8.5,
+    "constellation": "And",
+    "texture": "messier/m110.jpg",
+    "ngc": 205,
+    "sizeArcmin": [
+      17.0,
+      10.0
+    ],
+    "distance": 2670.0,
+    "common_name": null
+  }
+]
