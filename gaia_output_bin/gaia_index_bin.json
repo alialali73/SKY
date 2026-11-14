@@ -1,0 +1,512 @@
+{
+  "global_bright": {
+    "file": "gaia_global_bright.bin.gz",
+    "stars": 100000
+  },
+  "tiles": [
+    {
+      "id": 0,
+      "center_ra": 15.0,
+      "center_dec": -75.0,
+      "file": "tile_00.bin.gz",
+      "stars": 5856
+    },
+    {
+      "id": 1,
+      "center_ra": 45.0,
+      "center_dec": -75.0,
+      "file": "tile_01.bin.gz",
+      "stars": 5897
+    },
+    {
+      "id": 2,
+      "center_ra": 75.0,
+      "center_dec": -75.0,
+      "file": "tile_02.bin.gz",
+      "stars": 7314
+    },
+    {
+      "id": 3,
+      "center_ra": 105.0,
+      "center_dec": -75.0,
+      "file": "tile_03.bin.gz",
+      "stars": 9898
+    },
+    {
+      "id": 4,
+      "center_ra": 135.0,
+      "center_dec": -75.0,
+      "file": "tile_04.bin.gz",
+      "stars": 16698
+    },
+    {
+      "id": 5,
+      "center_ra": 165.0,
+      "center_dec": -75.0,
+      "file": "tile_05.bin.gz",
+      "stars": 26357
+    },
+    {
+      "id": 6,
+      "center_ra": 195.0,
+      "center_dec": -75.0,
+      "file": "tile_06.bin.gz",
+      "stars": 27912
+    },
+    {
+      "id": 7,
+      "center_ra": 225.0,
+      "center_dec": -75.0,
+      "file": "tile_07.bin.gz",
+      "stars": 26398
+    },
+    {
+      "id": 8,
+      "center_ra": 255.0,
+      "center_dec": -75.0,
+      "file": "tile_08.bin.gz",
+      "stars": 20761
+    },
+    {
+      "id": 9,
+      "center_ra": 285.0,
+      "center_dec": -75.0,
+      "file": "tile_09.bin.gz",
+      "stars": 10925
+    },
+    {
+      "id": 10,
+      "center_ra": 315.0,
+      "center_dec": -75.0,
+      "file": "tile_10.bin.gz",
+      "stars": 7503
+    },
+    {
+      "id": 11,
+      "center_ra": 345.0,
+      "center_dec": -75.0,
+      "file": "tile_11.bin.gz",
+      "stars": 6213
+    },
+    {
+      "id": 12,
+      "center_ra": 15.0,
+      "center_dec": -45.0,
+      "file": "tile_12.bin.gz",
+      "stars": 10865
+    },
+    {
+      "id": 13,
+      "center_ra": 45.0,
+      "center_dec": -45.0,
+      "file": "tile_13.bin.gz",
+      "stars": 11780
+    },
+    {
+      "id": 14,
+      "center_ra": 75.0,
+      "center_dec": -45.0,
+      "file": "tile_14.bin.gz",
+      "stars": 18184
+    },
+    {
+      "id": 15,
+      "center_ra": 105.0,
+      "center_dec": -45.0,
+      "file": "tile_15.bin.gz",
+      "stars": 39756
+    },
+    {
+      "id": 16,
+      "center_ra": 135.0,
+      "center_dec": -45.0,
+      "file": "tile_16.bin.gz",
+      "stars": 62106
+    },
+    {
+      "id": 17,
+      "center_ra": 165.0,
+      "center_dec": -45.0,
+      "file": "tile_17.bin.gz",
+      "stars": 53249
+    },
+    {
+      "id": 18,
+      "center_ra": 195.0,
+      "center_dec": -45.0,
+      "file": "tile_18.bin.gz",
+      "stars": 41918
+    },
+    {
+      "id": 19,
+      "center_ra": 225.0,
+      "center_dec": -45.0,
+      "file": "tile_19.bin.gz",
+      "stars": 53913
+    },
+    {
+      "id": 20,
+      "center_ra": 255.0,
+      "center_dec": -45.0,
+      "file": "tile_20.bin.gz",
+      "stars": 76645
+    },
+    {
+      "id": 21,
+      "center_ra": 285.0,
+      "center_dec": -45.0,
+      "file": "tile_21.bin.gz",
+      "stars": 51169
+    },
+    {
+      "id": 22,
+      "center_ra": 315.0,
+      "center_dec": -45.0,
+      "file": "tile_22.bin.gz",
+      "stars": 20150
+    },
+    {
+      "id": 23,
+      "center_ra": 345.0,
+      "center_dec": -45.0,
+      "file": "tile_23.bin.gz",
+      "stars": 12786
+    },
+    {
+      "id": 24,
+      "center_ra": 15.0,
+      "center_dec": -15.0,
+      "file": "tile_24.bin.gz",
+      "stars": 13486
+    },
+    {
+      "id": 25,
+      "center_ra": 45.0,
+      "center_dec": -15.0,
+      "file": "tile_25.bin.gz",
+      "stars": 15770
+    },
+    {
+      "id": 26,
+      "center_ra": 75.0,
+      "center_dec": -15.0,
+      "file": "tile_26.bin.gz",
+      "stars": 28320
+    },
+    {
+      "id": 27,
+      "center_ra": 105.0,
+      "center_dec": -15.0,
+      "file": "tile_27.bin.gz",
+      "stars": 81575
+    },
+    {
+      "id": 28,
+      "center_ra": 135.0,
+      "center_dec": -15.0,
+      "file": "tile_28.bin.gz",
+      "stars": 46523
+    },
+    {
+      "id": 29,
+      "center_ra": 165.0,
+      "center_dec": -15.0,
+      "file": "tile_29.bin.gz",
+      "stars": 21062
+    },
+    {
+      "id": 30,
+      "center_ra": 195.0,
+      "center_dec": -15.0,
+      "file": "tile_30.bin.gz",
+      "stars": 18308
+    },
+    {
+      "id": 31,
+      "center_ra": 225.0,
+      "center_dec": -15.0,
+      "file": "tile_31.bin.gz",
+      "stars": 24182
+    },
+    {
+      "id": 32,
+      "center_ra": 255.0,
+      "center_dec": -15.0,
+      "file": "tile_32.bin.gz",
+      "stars": 40100
+    },
+    {
+      "id": 33,
+      "center_ra": 285.0,
+      "center_dec": -15.0,
+      "file": "tile_33.bin.gz",
+      "stars": 75554
+    },
+    {
+      "id": 34,
+      "center_ra": 315.0,
+      "center_dec": -15.0,
+      "file": "tile_34.bin.gz",
+      "stars": 31154
+    },
+    {
+      "id": 35,
+      "center_ra": 345.0,
+      "center_dec": -15.0,
+      "file": "tile_35.bin.gz",
+      "stars": 16888
+    },
+    {
+      "id": 36,
+      "center_ra": 15.0,
+      "center_dec": 15.0,
+      "file": "tile_36.bin.gz",
+      "stars": 18165
+    },
+    {
+      "id": 37,
+      "center_ra": 45.0,
+      "center_dec": 15.0,
+      "file": "tile_37.bin.gz",
+      "stars": 19243
+    },
+    {
+      "id": 38,
+      "center_ra": 75.0,
+      "center_dec": 15.0,
+      "file": "tile_38.bin.gz",
+      "stars": 36029
+    },
+    {
+      "id": 39,
+      "center_ra": 105.0,
+      "center_dec": 15.0,
+      "file": "tile_39.bin.gz",
+      "stars": 65747
+    },
+    {
+      "id": 40,
+      "center_ra": 135.0,
+      "center_dec": 15.0,
+      "file": "tile_40.bin.gz",
+      "stars": 24914
+    },
+    {
+      "id": 41,
+      "center_ra": 165.0,
+      "center_dec": 15.0,
+      "file": "tile_41.bin.gz",
+      "stars": 13739
+    },
+    {
+      "id": 42,
+      "center_ra": 195.0,
+      "center_dec": 15.0,
+      "file": "tile_42.bin.gz",
+      "stars": 12364
+    },
+    {
+      "id": 43,
+      "center_ra": 225.0,
+      "center_dec": 15.0,
+      "file": "tile_43.bin.gz",
+      "stars": 16019
+    },
+    {
+      "id": 44,
+      "center_ra": 255.0,
+      "center_dec": 15.0,
+      "file": "tile_44.bin.gz",
+      "stars": 32377
+    },
+    {
+      "id": 45,
+      "center_ra": 285.0,
+      "center_dec": 15.0,
+      "file": "tile_45.bin.gz",
+      "stars": 74596
+    },
+    {
+      "id": 46,
+      "center_ra": 315.0,
+      "center_dec": 15.0,
+      "file": "tile_46.bin.gz",
+      "stars": 55637
+    },
+    {
+      "id": 47,
+      "center_ra": 345.0,
+      "center_dec": 15.0,
+      "file": "tile_47.bin.gz",
+      "stars": 23540
+    },
+    {
+      "id": 48,
+      "center_ra": 15.0,
+      "center_dec": 45.0,
+      "file": "tile_48.bin.gz",
+      "stars": 36827
+    },
+    {
+      "id": 49,
+      "center_ra": 45.0,
+      "center_dec": 45.0,
+      "file": "tile_49.bin.gz",
+      "stars": 35407
+    },
+    {
+      "id": 50,
+      "center_ra": 75.0,
+      "center_dec": 45.0,
+      "file": "tile_50.bin.gz",
+      "stars": 37839
+    },
+    {
+      "id": 51,
+      "center_ra": 105.0,
+      "center_dec": 45.0,
+      "file": "tile_51.bin.gz",
+      "stars": 28989
+    },
+    {
+      "id": 52,
+      "center_ra": 135.0,
+      "center_dec": 45.0,
+      "file": "tile_52.bin.gz",
+      "stars": 14428
+    },
+    {
+      "id": 53,
+      "center_ra": 165.0,
+      "center_dec": 45.0,
+      "file": "tile_53.bin.gz",
+      "stars": 10154
+    },
+    {
+      "id": 54,
+      "center_ra": 195.0,
+      "center_dec": 45.0,
+      "file": "tile_54.bin.gz",
+      "stars": 9332
+    },
+    {
+      "id": 55,
+      "center_ra": 225.0,
+      "center_dec": 45.0,
+      "file": "tile_55.bin.gz",
+      "stars": 11181
+    },
+    {
+      "id": 56,
+      "center_ra": 255.0,
+      "center_dec": 45.0,
+      "file": "tile_56.bin.gz",
+      "stars": 18439
+    },
+    {
+      "id": 57,
+      "center_ra": 285.0,
+      "center_dec": 45.0,
+      "file": "tile_57.bin.gz",
+      "stars": 48546
+    },
+    {
+      "id": 58,
+      "center_ra": 315.0,
+      "center_dec": 45.0,
+      "file": "tile_58.bin.gz",
+      "stars": 63611
+    },
+    {
+      "id": 59,
+      "center_ra": 345.0,
+      "center_dec": 45.0,
+      "file": "tile_59.bin.gz",
+      "stars": 48045
+    },
+    {
+      "id": 60,
+      "center_ra": 15.0,
+      "center_dec": 75.0,
+      "file": "tile_60.bin.gz",
+      "stars": 14805
+    },
+    {
+      "id": 61,
+      "center_ra": 45.0,
+      "center_dec": 75.0,
+      "file": "tile_61.bin.gz",
+      "stars": 11635
+    },
+    {
+      "id": 62,
+      "center_ra": 75.0,
+      "center_dec": 75.0,
+      "file": "tile_62.bin.gz",
+      "stars": 10329
+    },
+    {
+      "id": 63,
+      "center_ra": 105.0,
+      "center_dec": 75.0,
+      "file": "tile_63.bin.gz",
+      "stars": 8190
+    },
+    {
+      "id": 64,
+      "center_ra": 135.0,
+      "center_dec": 75.0,
+      "file": "tile_64.bin.gz",
+      "stars": 6036
+    },
+    {
+      "id": 65,
+      "center_ra": 165.0,
+      "center_dec": 75.0,
+      "file": "tile_65.bin.gz",
+      "stars": 5004
+    },
+    {
+      "id": 66,
+      "center_ra": 195.0,
+      "center_dec": 75.0,
+      "file": "tile_66.bin.gz",
+      "stars": 4738
+    },
+    {
+      "id": 67,
+      "center_ra": 225.0,
+      "center_dec": 75.0,
+      "file": "tile_67.bin.gz",
+      "stars": 5376
+    },
+    {
+      "id": 68,
+      "center_ra": 255.0,
+      "center_dec": 75.0,
+      "file": "tile_68.bin.gz",
+      "stars": 6763
+    },
+    {
+      "id": 69,
+      "center_ra": 285.0,
+      "center_dec": 75.0,
+      "file": "tile_69.bin.gz",
+      "stars": 9732
+    },
+    {
+      "id": 70,
+      "center_ra": 315.0,
+      "center_dec": 75.0,
+      "file": "tile_70.bin.gz",
+      "stars": 11242
+    },
+    {
+      "id": 71,
+      "center_ra": 345.0,
+      "center_dec": 75.0,
+      "file": "tile_71.bin.gz",
+      "stars": 13807
+    }
+  ]
+}
